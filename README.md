@@ -53,5 +53,5 @@ oxide run main.ox
 ## Learn More
 
 - [Oxide Documentation](https://oxide-lang.dev/docs)
-- [Language Reference](https://oxide-lang.dev/docs/language)
-- [Standard Library](https://oxide-lang.dev/docs/stdlib)
+- [Language Examples](https://oxide-lang.dev/examples)
+- [Community Forum](https://oxide-lang.dev/community)
