@@ -23,6 +23,24 @@ A collection of example programs demonstrating the Oxide programming language.
 | [functional-programming](./functional-programming) | Map, filter, reduce, and more | Intermediate |
 | [resource-management](./resource-management) | Defer, with statements, type checking | Intermediate |
 
+### GUI Development (OGRE)
+
+| Example | Description | Difficulty |
+|---------|-------------|------------|
+| [ogre-hello-world](./ogre-hello-world) | Your first cross-platform GUI app | Beginner |
+| [ogre-counter-app](./ogre-counter-app) | Flutter-style counter with state | Intermediate |
+| [ogre-material-form](./ogre-material-form) | Material Design login form | Intermediate |
+| [ogre-todo-app](./ogre-todo-app) | Complete todo list with filtering | Advanced |
+
+Run OGRE apps on any platform:
+
+```bash
+ogre run              # Desktop
+ogre run ios          # iOS Simulator
+ogre run android      # Android Emulator
+ogre run web          # Web browser
+```
+
 ### Web Development
 | Example | Description | Difficulty |
 |---------|-------------|------------|
