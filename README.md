@@ -13,6 +13,16 @@ A collection of example programs demonstrating the Oxide programming language.
 | [control-flow](./control-flow) | Conditionals and loops | Beginner |
 | [classes](./classes) | Object-oriented programming | Intermediate |
 
+### Modern Features (v0.0.8+)
+| Example | Description | Difficulty |
+|---------|-------------|------------|
+| [pipe-operator](./pipe-operator) | Function chaining with pipe operator | Beginner |
+| [null-coalescing](./null-coalescing) | Default values with `??` operator | Beginner |
+| [string-methods](./string-methods) | String manipulation functions | Beginner |
+| [ranges-comprehensions](./ranges-comprehensions) | Range generation and list comprehensions | Intermediate |
+| [functional-programming](./functional-programming) | Map, filter, reduce, and more | Intermediate |
+| [resource-management](./resource-management) | Defer, with statements, type checking | Intermediate |
+
 ### Web Development
 | Example | Description | Difficulty |
 |---------|-------------|------------|
