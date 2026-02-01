@@ -13,7 +13,19 @@ A collection of example programs demonstrating the Oxide programming language.
 | [control-flow](./control-flow) | Conditionals and loops | Beginner |
 | [classes](./classes) | Object-oriented programming | Intermediate |
 
+### Memory Safety
+| Example | Description | Difficulty |
+|---------|-------------|------------|
+| [ownership](./ownership) | Ownership and move semantics with `give()` | Intermediate |
+| [borrowing](./borrowing) | Borrowing with `borrow` and `borrow mut` | Intermediate |
+| [maybe-type](./maybe-type) | Safe null handling with `Maybe<T>` | Intermediate |
+| [attempt-type](./attempt-type) | Error handling with `Attempt<T, E>` | Intermediate |
+| [behaviors-extensions](./behaviors-extensions) | Interfaces and methods with `behavior`/`extend` | Intermediate |
+| [heap-allocation](./heap-allocation) | Heap allocation with `Heap<T>` | Advanced |
+| [bounds-checking](./bounds-checking) | Safe array access with bounds checks | Beginner |
+
 ### Modern Features (v0.0.8+)
+
 | Example | Description | Difficulty |
 |---------|-------------|------------|
 | [pipe-operator](./pipe-operator) | Function chaining with pipe operator | Beginner |
