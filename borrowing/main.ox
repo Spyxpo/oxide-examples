@@ -1,9 +1,9 @@
 # Borrowing - access without ownership transfer
 
-struct User
+entity User
     name: str
     score: i32
-endstruct
+endentity
 
 # Immutable borrow - can read but not modify
 func display_user(user: borrow User)

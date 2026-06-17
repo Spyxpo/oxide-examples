@@ -1,10 +1,10 @@
 # Heap<T> - heap allocation with ownership
 # No garbage collector - deterministic cleanup
 
-struct LargeData
+entity LargeData
     id: i32
     name: str
-endstruct
+endentity
 
 func demo_basic_heap()
     print "=== Basic Heap Allocation ==="

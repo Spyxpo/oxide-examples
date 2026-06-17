@@ -5,10 +5,10 @@ behavior Printable
     func to_string(this: borrow This) -> str
 endbehavior
 
-struct Rectangle
+entity Rectangle
     width: i32
     height: i32
-endstruct
+endentity
 
 # Add methods to Rectangle
 extend Rectangle

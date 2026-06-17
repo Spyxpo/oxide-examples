@@ -1,9 +1,9 @@
 # Ownership in Oxide - memory safety without garbage collection
 
-struct Document
+entity Document
     title: str
     content: str
-endstruct
+endentity
 
 # Create a document - we own it
 doc = Document { title: "Report", content: "Important data..." }
